@@ -1,0 +1,3 @@
+mesd_swiftmailer_homepage:
+    path:     /
+    defaults: { _controller: MesdSwiftmailerBundle:Default:index }

@@ -1,0 +1,4 @@
+mesd_swiftmailer:
+    resource: "@MesdSwiftmailerBundle/Resources/config/routing.yml"
+    prefix:   /
+
